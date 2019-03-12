@@ -8,7 +8,7 @@
 }
 
 .custom {
-    background-color: #d8a129 !important;
+    background-color: #e88b13 !important;
 }
 
 body{
@@ -130,8 +130,8 @@ body{
   }
   .main-menu a {
     display: block;
-    padding: 16px 45px;
-}
+    padding: 17px 20px;
+  }
   
   .sf-with-ul i {
     margin-left: 10px;
@@ -197,7 +197,7 @@ body{
   /**** Background Colors ****/
 body,
 .lightBtn {
-  background-color: #d8a129;
+  background-color: orange;
 }
 
 .main-slideshow,
@@ -236,7 +236,7 @@ body,
 .slider-caption,
 .cat-blog,
 .blog-post-meta ul li {
-  background-color:#d8a129
+  background-color: orange
 }
 
 .mainBtn,
@@ -254,7 +254,7 @@ body,
 .main-navigation,
 .site-footer {
   /*background-color: #793a3b;*/
-  background-color: #d8a129
+  background-color: #e88b13
 }
 
 blockquote,
@@ -429,17 +429,17 @@ blockquote,
 .main-navigation,
 .main-menu li {
   /*border-color: #8a4344;*/
-  border-color: #bf912d
+  border-color: #2071b7
 }
 
 .main-menu li ul li {
-  border-color: #bf912d
+  border-color: #793a3b;
 }
 
 body,
 .main-menu li ul,
 .tab-content > .tab-pane {
-  border-color: #d8a129;
+  border-color: #fecd0b;
 }
 
 .site-header,
@@ -460,35 +460,5 @@ body,
 .main_menu li,
 .main_menu {
   border-color: #ad5355 !important;
-}
-
-a.sf-menu {
- text-decoration: none
-}
-
-.college_banner {
-  height: 25vh;
-  background-color: #d8a129a3;
-}
-
-
-.logo{
-  text-align: center;
-  padding-top: 10px
-}
-
-.logo img{
-  width: 20%;
-}
-.header_title h2{
-  padding: 10px;
-  padding-top: 20px;
-  color: white;
-  text-align: center
-}
-.header_title h5{
-  color: white;
-  text-align: center;
-  padding-bottom: 30px
 }
 
